@@ -33,3 +33,10 @@ Add your email and username. Open another tab and navigate to the same website. 
 
 ![ChatServer1](https://user-images.githubusercontent.com/32800667/118669720-fd3bea00-b7c3-11eb-9c31-ad076c499653.png)
 
+
+## Resources
+**Code**: https://scotch.io/bar-talk/build-a-realtime-chat-server-with-go-and-websockets
+**VueJS**: https://vuejs.org/ (Navigate to "Why VUE.JS")
+**Go Tutorial**: https://tour.golang.org/welcome/1
+
+
