@@ -35,8 +35,8 @@ Add your email and username. Open another tab and navigate to the same website. 
 
 
 ## Resources
-**Code**: https://scotch.io/bar-talk/build-a-realtime-chat-server-with-go-and-websockets
-**VueJS**: https://vuejs.org/ (Navigate to "Why VUE.JS")
+**Code**: https://scotch.io/bar-talk/build-a-realtime-chat-server-with-go-and-websockets  
+**VueJS**: https://vuejs.org/ (Navigate to "Why VUE.JS")  
 **Go Tutorial**: https://tour.golang.org/welcome/1
 
 
