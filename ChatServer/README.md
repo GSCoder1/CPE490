@@ -17,8 +17,8 @@ Only needed to add a few lines to the js file:
         }
 ```
 ## Simple Chat
-This server, called Simple Chat, has 3 files in a public directory and 1 file in the src directory. The public directory holds the HTML, CSS, and JS files and the src directory holds main.go.
-In main.go, we imported the necessary packages, such as log, net/http, and websockets. Then we created a few global variables to connect the clients (using Websockets) and create a broadcast channel. in func main(), a simple file server was made that is able to view our public directory and is able to handle Websocket requests. Next, we created a few goroutines such as handleMessage and handleConnections that makes sure we can add clients to our local server.
+This server, called Simple Chat, has 3 files in a public directory and 1 file in the src directory. The public directory holds the HTML, CSS, and JS files and the src directory holds main.go.   
+In main.go, we imported the necessary packages, such as log, net/http, and websockets. Then we created a few global variables to connect the clients (using Websockets) and create a broadcast channel. in func main(), a simple file server was made that is able to view our public directory and is able to handle Websocket requests. Next, we created a few goroutines such as handleMessage and handleConnections that makes sure we can add clients to our local server.  
 In the public directory, the main things to note in the HTML file is that we needed to import all the libraries required such as Vue, jQuery, MD5 (for Gravatar). Also app.js is where the majority of the formatting and message parsing occurs. 
 
 ## User Interface
